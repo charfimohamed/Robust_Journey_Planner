@@ -1,4 +1,6 @@
-# Final Assignment: Robust Journey Planning
+# Robust Journey Planner
+
+[Demo and project description here](https://www.youtube.com/watch?v=Mg1aony7VM0&t=122s)
 
 ## HOW-TO
 
